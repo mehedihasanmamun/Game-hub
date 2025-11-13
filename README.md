@@ -4,7 +4,7 @@
 
 ## Links:
 
-- **Live Site:** [https://b12a10-nahiyan-ieh.netlify.app/](https://game-hub-apps.netlify.app/)
+- **Live Site:** [https://game-hub-apps.netlify.app/)
 - **Client Repo:** [https://github.com/nahiyankhan55/b12a10-web](https://github.com/mehedihasanmamun/Game-hub.git)
 
 ---
